@@ -24,7 +24,6 @@ Minha inspiração veio das videoaulas do Gustavo Guanabara. Gosto de tecnologia
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
@@ -67,9 +66,15 @@ Minha inspiração veio das videoaulas do Gustavo Guanabara. Gosto de tecnologia
 | **To-Do List** | Aplicação de lista de tarefas | JavaScript | [Repositório](https://github.com/kauanlopeskkk/To-Do-List) |
 
 
+## 📱 Rede Social
 
+<p align="center"> 
+<a href=https://www.linkedin.com/in/kauan-lopes-9920bb40b/ target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height = "70px" />
+</a>    
+          
 
-
+</p>
 
 <p align="center">
   <sub>Feito com 💙 por Kauan Lopes</sub>
