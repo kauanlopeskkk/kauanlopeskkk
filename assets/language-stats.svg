@@ -1,0 +1,62 @@
+<svg width="300" height="256" viewBox="0 0 300 256" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 16px "Segoe UI", Ubuntu, sans-serif; fill: #fe428e; }
+    .lang { font: 600 12px "Segoe UI", Ubuntu, sans-serif; fill: #ffffff; }
+    .pct { font: 600 12px "Segoe UI", Ubuntu, sans-serif; fill: #a9fef7; }
+    @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="299" height="255" rx="4.5" fill="#141321"/>
+  <text x="20" y="28" class="header">Linguagens Mais Usadas</text>
+  <g transform="translate(20, 0)">
+    
+    <g transform="translate(0, 45)" style="animation: fadein 0.5s ease-in-out forwards; animation-delay: 0.00s; opacity:0">
+      <circle cx="7" cy="6" r="5" fill="#e34c26"/>
+      <text x="20" y="10" class="lang">HTML</text>
+      <text x="260" y="10" class="pct" text-anchor="end">84.92%</text>
+      <rect x="0" y="16" width="260" height="8" rx="4" fill="#2c2b45"/>
+      <rect x="0" y="16" width="220.79" height="8" rx="4" fill="#e34c26"/>
+    </g>
+    <g transform="translate(0, 73)" style="animation: fadein 0.5s ease-in-out forwards; animation-delay: 0.15s; opacity:0">
+      <circle cx="7" cy="6" r="5" fill="#f1e05a"/>
+      <text x="20" y="10" class="lang">JavaScript</text>
+      <text x="260" y="10" class="pct" text-anchor="end">4.44%</text>
+      <rect x="0" y="16" width="260" height="8" rx="4" fill="#2c2b45"/>
+      <rect x="0" y="16" width="11.53" height="8" rx="4" fill="#f1e05a"/>
+    </g>
+    <g transform="translate(0, 101)" style="animation: fadein 0.5s ease-in-out forwards; animation-delay: 0.30s; opacity:0">
+      <circle cx="7" cy="6" r="5" fill="#3572A5"/>
+      <text x="20" y="10" class="lang">Python</text>
+      <text x="260" y="10" class="pct" text-anchor="end">4.15%</text>
+      <rect x="0" y="16" width="260" height="8" rx="4" fill="#2c2b45"/>
+      <rect x="0" y="16" width="10.80" height="8" rx="4" fill="#3572A5"/>
+    </g>
+    <g transform="translate(0, 129)" style="animation: fadein 0.5s ease-in-out forwards; animation-delay: 0.45s; opacity:0">
+      <circle cx="7" cy="6" r="5" fill="#563d7c"/>
+      <text x="20" y="10" class="lang">CSS</text>
+      <text x="260" y="10" class="pct" text-anchor="end">3.33%</text>
+      <rect x="0" y="16" width="260" height="8" rx="4" fill="#2c2b45"/>
+      <rect x="0" y="16" width="8.66" height="8" rx="4" fill="#563d7c"/>
+    </g>
+    <g transform="translate(0, 157)" style="animation: fadein 0.5s ease-in-out forwards; animation-delay: 0.60s; opacity:0">
+      <circle cx="7" cy="6" r="5" fill="#3178c6"/>
+      <text x="20" y="10" class="lang">TypeScript</text>
+      <text x="260" y="10" class="pct" text-anchor="end">2.87%</text>
+      <rect x="0" y="16" width="260" height="8" rx="4" fill="#2c2b45"/>
+      <rect x="0" y="16" width="7.46" height="8" rx="4" fill="#3178c6"/>
+    </g>
+    <g transform="translate(0, 185)" style="animation: fadein 0.5s ease-in-out forwards; animation-delay: 0.75s; opacity:0">
+      <circle cx="7" cy="6" r="5" fill="#c6538c"/>
+      <text x="20" y="10" class="lang">SCSS</text>
+      <text x="260" y="10" class="pct" text-anchor="end">0.21%</text>
+      <rect x="0" y="16" width="260" height="8" rx="4" fill="#2c2b45"/>
+      <rect x="0" y="16" width="0.56" height="8" rx="4" fill="#c6538c"/>
+    </g>
+    <g transform="translate(0, 213)" style="animation: fadein 0.5s ease-in-out forwards; animation-delay: 0.90s; opacity:0">
+      <circle cx="7" cy="6" r="5" fill="#384d54"/>
+      <text x="20" y="10" class="lang">Dockerfile</text>
+      <text x="260" y="10" class="pct" text-anchor="end">0.08%</text>
+      <rect x="0" y="16" width="260" height="8" rx="4" fill="#2c2b45"/>
+      <rect x="0" y="16" width="0.20" height="8" rx="4" fill="#384d54"/>
+    </g>
+  </g>
+</svg>
