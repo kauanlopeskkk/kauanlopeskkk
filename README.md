@@ -12,58 +12,100 @@
 
 ## 🚀 Sobre mim
 
-Olá pessoal, me chamo Kauan Lopes, tenho 19 anos e sou de Pernambuco.
+"Desenvolvedor FullStack Python com foco em Backend e APIs REST. Estudante de Engenharia da Computação em busca de oportunidade em estágio. Experiência prática gerenciando  Esquina do Frango e Frios, um negócio local onde aplico conhecimentos de desenvolvimento web e tecnologia."
 
-Concluí o Ensino Médio, além dos cursos da EBAC e da Prepara AI Centro De Paulista . Atualmente estou cursando Engenharia da Computação na UNINASSAU.
+Estou em busca da primeira oportunidadae de estágios 
 
-Minha inspiração veio das videoaulas do Gustavo Guanabara. Gosto de tecnologia pelo compartilhamento de conhecimento na internet, e venho estudando IA e desenvolvimento FullStack.
-
-## 💻 Linguagens que Mais Utilizo
-
+##  🛠️ Linguagens e Stack[Ferramenta]
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+### 🟢 Avançado
+- **Python** (fastapi, backend, APIs, estruturas de dados)
+- **HTML5 / CSS3** (semantic HTML, layouts responsivos)
+- **Git/GitHub** (controle de versão, collab)
+
+
+### 🟡 Intermediário
+- **JavaScript** (DOM, async/await, básico de React)
+- **Docker/Podman** (containerização, docker-compose)
+- **Banco de Dados** (SQL, conceitos)
+
+### 🔵 Iniciante
+- **React** (hooks, componentes básicos)
+- **Next.js** (primeiros passos)
+- **Java** (iniciando)
 </p>
 
-## 🛠️ Stack e Ferramentas
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Buscando Estágio-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Localização-Olinda, PE-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Disponibilidade-Imediata-success?style=flat-square" />
 </p>
 
-## 📊 GitHub Stats
+# 🏆 Top 3 Projetos Destacados
+ 
+### 1️⃣ 🍗 Esquina do Frango e Frios
+ 
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-pink.vercel.app/api?username=kauanlopeskkk&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="assets/language-stats.svg" alt="Linguagens Mais Usadas" height="165" />
-</p>
+### 📌 Sobre o Projeto
+ 
+Site institucional e plataforma de gerenciamento para **meu negócio local** em Pernambuco. Um projeto real com clientes, avaliações e feedback contínuo.
+ 
+**Status:** 🟢 Em produção e desenvolvimento contínuo
+ 
+### 🛠️ Tecnologias Utilizadas
+ 
+```
+Frontend:  JavaScript | HTML5 | CSS3
+Backend:   JavaScript (Node.js) | Python
+```
+ 
+**Stack:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=python&logoColor=white)
+ 
+### ✨ Principais Features
+ 
+- ✅ **Landing page responsiva** - Apresentação dos produtos e serviços
+- ✅ **Sistema de avaliações** - Gerenciamento de feedback de clientes
+- ✅ **Cardápio digital** - Exibição de produtos com preços e descrições
+- ✅ **Formulário de contato** - Integração com cliente
+- ✅ **Design responsivo** - Mobile-first approach
+- ✅ **SEO otimizado** - Melhor visibilidade em buscas locais
+### 🎯 Desafios & Aprendizados
+ 
+| Desafio | Solução | Aprendizado |
+|---------|---------|------------|
+| Gerenciar avaliações em tempo real | Sistema de comentários dinâmico com JS | DOM manipulation, async operations |
+| Responsividade em múltiplos devices | Mobile-first + media queries flexíveis | CSS Grid, Flexbox, UX design |
+| Performance do site | Otimização de imagens, lazy loading | Web performance, user experience |
+| Manutenção com cliente real | Documentação clara, commits bem estruturados | Profissionalismo, versionamento |
+ 
+### 💼 Por Que é Importante
+ 
+Este projeto demonstra:
+- 🚀 **Empreendedorismo** - Negócio funcionando de verdade
+- 👥 **Experiência com cliente real** - Não é só exercício de escola
+- 📈 **Crescimento contínuo** - Projeto vivo em evolução
+- 💡 **Aplicação prática** - Tecnologia resolvendo problema real
+### 📦 Como Usar
+ 
+```bash
+git clone https://github.com/kauanlopeskkk/ESquina-Do-Frango.git
+cd ESquina-Do-Frango
+# Abrir index.html no navegador ou servir com Live Server
+```
+ 
+### 🔗 Links
+ 
+- **Repositório:** [github.com/kauanlopeskkk/ESquina-Do-Frango](https://github.com/kauanlopeskkk/ESquina-Do-Frango)
+- **Ver ao vivo:** [Link do site em produção]
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=kauanlopeskkk&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
-## 💼 Meus Projetos
-
-| Projeto | Descrição | Tecnologia | Link |
-|---|---|---|---|
-| **PetStyle - Loja Virtual** | E-commerce completo para produtos pet | HTML/CSS/JS | [Repositório](https://github.com/kauanlopeskkk/petstyle-loja-virtual) |
-| **Portal de Viagens** | Portal para pesquisa e reserva de viagens | TypeScript | [Repositório](https://github.com/kauanlopeskkk/portal-viagens) |
-| **Esquina do Frango** | Site institucional para negócio local | JavaScript | [Repositório](https://github.com/kauanlopeskkk/ESquina-Do-Frango) |
-| **Pokedox** | Pokédex construída consumindo API pública | Python | [Repositório](https://github.com/kauanlopeskkk/pokedox) |
-| **Test FastAPI** | API REST de estudo com FastAPI | Python | [Repositório](https://github.com/kauanlopeskkk/Test_FastAPI) |
-| **Biblioteca** | Sistema de gerenciamento de biblioteca | TypeScript | [Repositório](https://github.com/kauanlopeskkk/Biblioteca) |
-| **Jogo** | Jogo em Python containerizado com Podman | Python | [Repositório](https://github.com/kauanlopeskkk/Jogo) |
-| **To-Do List** | Aplicação de lista de tarefas | JavaScript | [Repositório](https://github.com/kauanlopeskkk/To-Do-List) |
 
 
 ## 📱 Rede Social
