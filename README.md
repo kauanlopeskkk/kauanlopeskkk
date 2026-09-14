@@ -106,9 +106,54 @@ cd ESquina-Do-Frango
 - **Ver ao vivo:** [Link do site em produção]
 
 
+### 2️⃣ 🚀 DevHub
+
+### 📌 Sobre o Projeto
+
+Plataforma para desenvolvedores organizarem projetos, tarefas e bugs em um só lugar. O DevHub foi criado para acompanhar a evolução de cada projeto durante a jornada de programação.
+
+**Status:** 🟡 Em desenvolvimento
+
+### 🛠️ Tecnologias Utilizadas
+
+```
+Frontend:  HTML5 | CSS3 | JavaScript
+Backend:   Python | FastAPI | SQLAlchemy
+Banco:     SQLite
+```
+
+**Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### ✨ Principais Features
+
+- ✅ **Cadastro e login de usuários**
+- ✅ **Criação e gerenciamento de projetos**
+- ✅ **Controle de tarefas por projeto**
+- ✅ **Registro e acompanhamento de bugs**
+- ✅ **Dashboard com contadores e visão geral**
+- ✅ **API REST com operações de criação, consulta, edição e exclusão**
+
+### 🎯 O Que Aprendi
+
+Este projeto demonstra minha prática com:
+
+- Construção de APIs REST usando FastAPI
+- Integração entre frontend, backend e banco de dados
+- Modelagem de relacionamentos com SQLAlchemy
+- Organização de rotas, schemas e modelos
+- Criação de uma interface para acompanhar projetos de forma visual
+
+### 🔗 Links
+
+- **Repositório:** [github.com/kauanlopeskkk/DevHub](https://github.com/kauanlopeskkk/DevHub)
 
 
-## 📱 Rede Social
+
+## 📱 Meu Linkedin
 
 <p align="center"> 
 <a href=https://www.linkedin.com/in/kauan-lopes-9920bb40b/ target="_blank">
