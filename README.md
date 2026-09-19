@@ -29,6 +29,7 @@ Estou em busca da primeira oportunidadae de estágios
 - **JavaScript** (DOM, async/await, básico de React)
 - **Docker/Podman** (containerização, docker-compose)
 - **Banco de Dados** (SQL, conceitos)
+- **Node.js**
 
 ### 🔵 Iniciante
 - **React** (hooks, componentes básicos)
